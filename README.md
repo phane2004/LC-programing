@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/phane2004/LC-programing/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -41,4 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
