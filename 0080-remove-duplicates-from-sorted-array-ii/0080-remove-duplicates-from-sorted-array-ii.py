@@ -13,9 +13,6 @@ class Solution:
             res.extend([k] * v)
         # print(res)
         ans = len(res)
-        extra = len(nums) - len(res)
-        for _ in range(extra):
-            res.append("_")
         for idx, val in enumerate(res):
             nums[idx] = val
         return ans
