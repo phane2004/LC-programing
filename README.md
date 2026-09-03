@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/phane2004/LC-programing/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phane2004/LC-programing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/phane2004/LC-programing/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/phane2004/LC-programing/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/phane2004/LC-programing/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/phane2004/LC-programing/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
