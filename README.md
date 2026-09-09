@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/phane2004/LC-programing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/phane2004/LC-programing/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/phane2004/LC-programing/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/phane2004/LC-programing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
