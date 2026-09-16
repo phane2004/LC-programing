@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phane2004/LC-programing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/phane2004/LC-programing/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/phane2004/LC-programing/tree/master/0137-single-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
