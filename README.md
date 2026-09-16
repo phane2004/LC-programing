@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/phane2004/LC-programing/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/phane2004/LC-programing/tree/master/3871-count-commas-in-range-ii) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
