@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phane2004/LC-programing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/phane2004/LC-programing/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
