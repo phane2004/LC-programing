@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/phane2004/LC-programing/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/phane2004/LC-programing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/phane2004/LC-programing/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
