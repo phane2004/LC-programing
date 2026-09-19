@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/phane2004/LC-programing/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/phane2004/LC-programing/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/phane2004/LC-programing/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
 | ------- |
@@ -192,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
