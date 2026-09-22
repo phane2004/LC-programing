@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/phane2004/LC-programing/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/phane2004/LC-programing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/phane2004/LC-programing/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/phane2004/LC-programing/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/phane2004/LC-programing/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Game Theory
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/phane2004/LC-programing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/phane2004/LC-programing/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/phane2004/LC-programing/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/phane2004/LC-programing/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Depth-First Search
 |  |
 | ------- |
