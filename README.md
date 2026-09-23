@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/phane2004/LC-programing/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/phane2004/LC-programing/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
