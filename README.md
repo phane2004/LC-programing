@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/phane2004/LC-programing/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phane2004/LC-programing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/phane2004/LC-programing/tree/master/0137-single-number-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/phane2004/LC-programing/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/phane2004/LC-programing/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
