@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/phane2004/LC-programing/tree/master/0387-first-unique-character-in-a-string) |
 | [0784-letter-case-permutation](https://github.com/phane2004/LC-programing/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/phane2004/LC-programing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/phane2004/LC-programing/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/phane2004/LC-programing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/phane2004/LC-programing/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/phane2004/LC-programing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
