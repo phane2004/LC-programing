@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/phane2004/LC-programing/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/phane2004/LC-programing/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/phane2004/LC-programing/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/phane2004/LC-programing/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/phane2004/LC-programing/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -265,8 +267,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
