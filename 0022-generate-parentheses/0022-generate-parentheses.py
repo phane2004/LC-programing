@@ -1,17 +1,14 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
         res = []
-
-        def helper(open, close, path):
-
-            if open == close == n:
-                res.append(path)
+        @cache
+        def generate(o, c, s):
+            if o == c == n:
+                res.append(s)
                 return
-            
-            if open < n:
-                helper(open + 1, close, path + '(')
-
-            if close < open:
-                helper(open, close + 1, path + ')')
-        helper(0, 0, "")
+            if o < n:
+                generate(o + 1, c, s + '(')
+            if c < o:
+                generate(o, c + 1, s + ')')
+        generate(0, 0, "")
         return res
