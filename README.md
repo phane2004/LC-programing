@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/phane2004/LC-programing/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/phane2004/LC-programing/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/phane2004/LC-programing/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/phane2004/LC-programing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/phane2004/LC-programing/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/phane2004/LC-programing/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/phane2004/LC-programing/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
