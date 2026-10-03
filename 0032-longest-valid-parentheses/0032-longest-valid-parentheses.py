@@ -10,11 +10,11 @@ class Solution:
         for i in range(n):
 
             if s[i] == ')' and len(stk) > 0:
-                ch, idx = stk.pop()
+                idx = stk.pop()
                 dp[i], dp[idx] = 1, 1
 
             elif s[i] == '(':
-                stk.append(['(', i])
+                stk.append(i)
         # print(dp)
         res = 0
         for i in range(n):
