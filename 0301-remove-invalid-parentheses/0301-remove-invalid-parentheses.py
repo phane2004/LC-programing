@@ -1,11 +1,11 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list[str]:
-        res = []
+        res = set()
         @cache
         def helper(o, c, idx, path):
             if idx == len(s):
-                if o == c and path not in res:
-                    res.append(path)
+                if o == c:
+                    res.add(path)
                 return
             else:
                 ch = s[idx]
@@ -19,6 +19,7 @@ class Solution:
                         helper(o, c + 1, idx + 1, path + ch)
             
         helper(0, 0, 0, "")
+        res = list(res)
         res = sorted(res, key = lambda x : len(x), reverse=True)
         max_len = len(res[0])
         idx = 0
