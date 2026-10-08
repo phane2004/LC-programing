@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/phane2004/LC-programing/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/phane2004/LC-programing/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/phane2004/LC-programing/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/phane2004/LC-programing/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/phane2004/LC-programing/tree/master/3875-construct-uniform-parity-array-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/phane2004/LC-programing/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/phane2004/LC-programing/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/phane2004/LC-programing/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
 |  |
 | ------- |
