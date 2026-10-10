@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
+| [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/phane2004/LC-programing/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/phane2004/LC-programing/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/phane2004/LC-programing/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
+| [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/phane2004/LC-programing/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/phane2004/LC-programing/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Simulation
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/phane2004/LC-programing/tree/master/0986-interval-list-intersections) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
