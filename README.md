@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/phane2004/LC-programing/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/phane2004/LC-programing/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/phane2004/LC-programing/tree/master/0165-compare-version-numbers) |
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/phane2004/LC-programing/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/phane2004/LC-programing/tree/master/0115-distinct-subsequences) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/phane2004/LC-programing/tree/master/0678-valid-parenthesis-string) |
