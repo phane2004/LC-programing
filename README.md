@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/phane2004/LC-programing/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/phane2004/LC-programing/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/phane2004/LC-programing/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 ## Knapsack Problem
 |  |
