@@ -6,9 +6,8 @@ class Solution:
         dp = [1] * n
 
         for i in range(1, n):
-            if nums[i] > nums[i - 1]:
-                dp[i] += dp[i - 1]
-            else:
-                dp[i] = dp[i - 1]
+            for j in range(i):
+                if nums[j] < nums[i]:
+                    dp[i] = max(dp[i], dp[j] + 1)
         #print(dp)
-        return dp[-1]
+        return max(dp)
