@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/phane2004/LC-programing/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/phane2004/LC-programing/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/phane2004/LC-programing/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/phane2004/LC-programing/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/phane2004/LC-programing/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/phane2004/LC-programing/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/phane2004/LC-programing/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/phane2004/LC-programing/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
