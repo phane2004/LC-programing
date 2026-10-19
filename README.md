@@ -309,11 +309,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
