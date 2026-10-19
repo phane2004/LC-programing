@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/phane2004/LC-programing/tree/master/0300-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
