@@ -8,12 +8,19 @@ class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        def helper(depth, root):
-            if not root:
-                return depth
-            ld = helper(depth + 1, root.left)
-            rd = helper(depth + 1, root.right)
-            
-            #print(ld, rd)
-            return max(ld, rd)
-        return helper(0, root)
+        q = []
+        q.append(root)
+        depth = 0
+        while len(q) > 0:
+            depth += 1
+            n = len(q)
+            for _ in range(n):
+                node = q.pop(0)
+                print(node.val, end = " ")
+                if node.left != None:
+                    q.append(node.left)
+                if node.right != None:
+                    q.append(node.right)
+            print()
+            print(depth)
+        return depth
