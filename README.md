@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/phane2004/LC-programing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/phane2004/LC-programing/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/phane2004/LC-programing/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/phane2004/LC-programing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/phane2004/LC-programing/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/phane2004/LC-programing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/phane2004/LC-programing/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/phane2004/LC-programing/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/phane2004/LC-programing/tree/master/0856-score-of-parentheses) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/phane2004/LC-programing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/phane2004/LC-programing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/phane2004/LC-programing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/phane2004/LC-programing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/phane2004/LC-programing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/phane2004/LC-programing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/phane2004/LC-programing/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/phane2004/LC-programing/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/phane2004/LC-programing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/phane2004/LC-programing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/phane2004/LC-programing/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
