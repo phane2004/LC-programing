@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
+| [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/phane2004/LC-programing/tree/master/0729-my-calendar-i) |
 | [0986-interval-list-intersections](https://github.com/phane2004/LC-programing/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/phane2004/LC-programing/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/phane2004/LC-programing/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/phane2004/LC-programing/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
