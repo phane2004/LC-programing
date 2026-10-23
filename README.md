@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/phane2004/LC-programing/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/phane2004/LC-programing/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -353,12 +355,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/phane2004/LC-programing/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/phane2004/LC-programing/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
@@ -499,4 +503,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/phane2004/LC-programing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
