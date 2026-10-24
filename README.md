@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/phane2004/LC-programing/tree/master/0729-my-calendar-i) |
 | [0986-interval-list-intersections](https://github.com/phane2004/LC-programing/tree/master/0986-interval-list-intersections) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/phane2004/LC-programing/tree/master/0133-clone-graph) |
 | [0387-first-unique-character-in-a-string](https://github.com/phane2004/LC-programing/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/phane2004/LC-programing/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/phane2004/LC-programing/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/phane2004/LC-programing/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/phane2004/LC-programing/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/phane2004/LC-programing/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/phane2004/LC-programing/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/phane2004/LC-programing/tree/master/1732-find-the-highest-altitude) |
