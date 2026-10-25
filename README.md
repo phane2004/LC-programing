@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/phane2004/LC-programing/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/phane2004/LC-programing/tree/master/1094-car-pooling) |
+| [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/phane2004/LC-programing/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/phane2004/LC-programing/tree/master/1732-find-the-highest-altitude) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/phane2004/LC-programing/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/phane2004/LC-programing/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
+| [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
