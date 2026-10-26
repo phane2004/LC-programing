@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/phane2004/LC-programing/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/phane2004/LC-programing/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/phane2004/LC-programing/tree/master/0133-clone-graph) |
 | [0387-first-unique-character-in-a-string](https://github.com/phane2004/LC-programing/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/phane2004/LC-programing/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
+| [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/phane2004/LC-programing/tree/master/1248-count-number-of-nice-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/phane2004/LC-programing/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/phane2004/LC-programing/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/phane2004/LC-programing/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
@@ -553,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/phane2004/LC-programing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phane2004/LC-programing/tree/master/0210-course-schedule-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
