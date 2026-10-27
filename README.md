@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/phane2004/LC-programing/tree/master/0729-my-calendar-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/phane2004/LC-programing/tree/master/0746-min-cost-climbing-stairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/phane2004/LC-programing/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/phane2004/LC-programing/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/phane2004/LC-programing/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/phane2004/LC-programing/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/phane2004/LC-programing/tree/master/0940-distinct-subsequences-ii) |
 | [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/phane2004/LC-programing/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
