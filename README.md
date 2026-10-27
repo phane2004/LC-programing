@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/phane2004/LC-programing/tree/master/1248-count-number-of-nice-subarrays) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/phane2004/LC-programing/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/phane2004/LC-programing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/phane2004/LC-programing/tree/master/0174-dungeon-game) |
+| [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/phane2004/LC-programing/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/phane2004/LC-programing/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/phane2004/LC-programing/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/phane2004/LC-programing/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/phane2004/LC-programing/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
 ## Longest Increasing Subsequence
