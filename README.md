@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/phane2004/LC-programing/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/phane2004/LC-programing/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/phane2004/LC-programing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/phane2004/LC-programing/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/phane2004/LC-programing/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/phane2004/LC-programing/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/phane2004/LC-programing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/phane2004/LC-programing/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/phane2004/LC-programing/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/phane2004/LC-programing/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/phane2004/LC-programing/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/phane2004/LC-programing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/phane2004/LC-programing/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/phane2004/LC-programing/tree/master/1254-number-of-closed-islands) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/phane2004/LC-programing/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/phane2004/LC-programing/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/phane2004/LC-programing/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
