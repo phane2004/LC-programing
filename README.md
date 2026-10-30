@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/phane2004/LC-programing/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/phane2004/LC-programing/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/phane2004/LC-programing/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/phane2004/LC-programing/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/phane2004/LC-programing/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bracket Sequences
 |  |
 | ------- |
