@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/phane2004/LC-programing/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/phane2004/LC-programing/tree/master/0986-interval-list-intersections) |
+| [0997-find-the-town-judge](https://github.com/phane2004/LC-programing/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/phane2004/LC-programing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/phane2004/LC-programing/tree/master/1027-longest-arithmetic-subsequence) |
 | [1094-car-pooling](https://github.com/phane2004/LC-programing/tree/master/1094-car-pooling) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/phane2004/LC-programing/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/phane2004/LC-programing/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/phane2004/LC-programing/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/phane2004/LC-programing/tree/master/1027-longest-arithmetic-subsequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/phane2004/LC-programing/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/phane2004/LC-programing/tree/master/1386-cinema-seat-allocation) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/phane2004/LC-programing/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/phane2004/LC-programing/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/phane2004/LC-programing/tree/master/0797-all-paths-from-source-to-target) |
+| [0997-find-the-town-judge](https://github.com/phane2004/LC-programing/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/phane2004/LC-programing/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/phane2004/LC-programing/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/phane2004/LC-programing/tree/master/1971-find-if-path-exists-in-graph) |
