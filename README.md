@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/phane2004/LC-programing/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/phane2004/LC-programing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/phane2004/LC-programing/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/phane2004/LC-programing/tree/master/0525-contiguous-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/phane2004/LC-programing/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/phane2004/LC-programing/tree/master/0279-perfect-squares) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/phane2004/LC-programing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/phane2004/LC-programing/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/phane2004/LC-programing/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/phane2004/LC-programing/tree/master/1248-count-number-of-nice-subarrays) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/phane2004/LC-programing/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/phane2004/LC-programing/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/phane2004/LC-programing/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/phane2004/LC-programing/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1094-car-pooling](https://github.com/phane2004/LC-programing/tree/master/1094-car-pooling) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/phane2004/LC-programing/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
