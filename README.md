@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/phane2004/LC-programing/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/phane2004/LC-programing/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/phane2004/LC-programing/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/phane2004/LC-programing/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/phane2004/LC-programing/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/phane2004/LC-programing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/phane2004/LC-programing/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/phane2004/LC-programing/tree/master/1352-product-of-the-last-k-numbers) |
 | [1641-count-sorted-vowel-strings](https://github.com/phane2004/LC-programing/tree/master/1641-count-sorted-vowel-strings) |
 | [1927-sum-game](https://github.com/phane2004/LC-programing/tree/master/1927-sum-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/phane2004/LC-programing/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/phane2004/LC-programing/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/phane2004/LC-programing/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/phane2004/LC-programing/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/phane2004/LC-programing/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/phane2004/LC-programing/tree/master/1248-count-number-of-nice-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/phane2004/LC-programing/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/phane2004/LC-programing/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/phane2004/LC-programing/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/phane2004/LC-programing/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/phane2004/LC-programing/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/phane2004/LC-programing/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/phane2004/LC-programing/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/phane2004/LC-programing/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/phane2004/LC-programing/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
